@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">intents</string>
+    <string name="tomar_foto">Tomar foto</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="message_value">Teclea un mensaje aquí</string>
+
+</resources>
